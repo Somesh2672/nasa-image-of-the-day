@@ -115,3 +115,14 @@ function clearSearchHistory() {
 window.addEventListener('load', clearSearchHistory);
 
 window.addEventListener('load', getCurrentImageOfTheDay);
+
+const themeBtn = document.getElementById('themeBtn');
+
+function changeTheme () {
+    themeBtn.value = clicked;
+    if (themeBtn.value = clicked){
+        <style>
+            body{Background-color = white;}
+     </style>
+    }
+}
