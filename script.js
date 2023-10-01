@@ -1,4 +1,4 @@
-const apiKey = 'nNGVz17DsMsYgjr0aoYcYeP2EIOmtNyEQngWVQ1I';
+// const  = 'nNGVz17DsMsYgjr0aoYcYeP2EIOmtNyEQngWVQ1I';
 const apiBaseUrl = `https://api.nasa.gov/planetary/apod?api_key=${apiKey}`;
 
 // Function to get the current date in YYYY-MM-DD format
